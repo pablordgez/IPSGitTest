@@ -9,5 +9,6 @@ public class Demo {
     System.out.println("line 5");
     System.out.println("hello from branch2");
     System.out.println("hello from master");
+    System.out.println("this will be rebased (from master");
   }
 }
