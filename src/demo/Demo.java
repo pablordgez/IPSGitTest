@@ -8,5 +8,6 @@ public class Demo {
     System.out.println("line 4");
     System.out.println("line 5");
     System.out.println("hello from branch2");
+    System.out.println("hello from master");
   }
 }
